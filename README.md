@@ -18,4 +18,14 @@ vol. 14, pp. 8689-8702, 2021.
 
 ![reviewHSI](fig/img.png)
 
+Also consider citing:
+
+```
+S. K. Kukushkin, R. Bogdan and T. Schmid
+On optimizing morphological neural networks for hyperspectral image classification
+SPIE Sixteenth International Conference on Machine Vision (ICMV 2023)
+DOI: 10.1117/12.3023593
+p. 49, 2024.
+```
+
 And of course, don't forget to gve a star if you find the code useful!
